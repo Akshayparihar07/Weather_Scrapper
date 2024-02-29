@@ -1,5 +1,7 @@
 # Weather Data Fetcher
 
+![.](Weather.png)
+
 This mini project fetches weather data such as Temperature and weather conditions from the OpenWeatherMap API and displays it in a terminal.
 
 ## Requirements
